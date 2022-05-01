@@ -25,7 +25,7 @@
       entity_id:
         -  light.garage_hallway
 
-##############################################################
+##############################################################3
 - alias: Garage Light Hallway Helper Closed
   id: f6060cd7-add7-487f-9b2b-f7849db3b36d
   mode: restart
